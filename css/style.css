@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    background-color: #9eb2c2;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #303d55;
+    height: 100px;
+}
+
+header .main {
+    margin: 0;
+    font-size: 50px;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    padding-top: 75px;
+    height: 750px;
+    color: black;
+    text-align: center;
+}
+
+main h2 {
+    font-size: 40px;
+}
+
+main ul {
+    list-style: none;
+}
+
+main ul li {
+    margin: 80px;
+    padding-top: 80px;
+}
+
+.choice {
+    text-decoration: none;
+    background-color: #edb309;
+    color: inherit;
+    font-size: 30px;
+    border: 5px solid #000;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+footer {
+    background-color: #303d55;
+    height: 40px;
+    text-align: right;
+}
+
+footer p {
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+
+label {
+    font-size: 30px;
+    margin: 60px;
+}
+
+input {
+    font-size: 20px;
+    height: 40px;
+    margin: 20px;
+    background-color: #c8d5e0;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+#formButton,
+#back a,
+#show {
+    text-decoration: none;
+    color: black;
+    background-color: #7cb2bc;
+    font-weight: bold;
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 7px;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+#ans {
+    font-size: 20px;
+    background-color: #edb309;
+    margin: 0 auto;
+    border: 3px solid #000;
+    border-radius: 15px;
+    width: 500px;
+}
+
+#back {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+strong {
+    font-size: 25px;
+}
+
+#course1,
+#course2,
+#course3 {
+    background-color: #edb309;
+    border: 5px solid #000;
+    border-radius: 20px;
+    width: 500px;
+    margin: 25px auto;
+    font-size: 25px;
+}
+
+#enroll a{
+    background-color: #7cb2bc;
+    text-decoration: none;
+    color: black;
+    height: 50px;
+    width: 200px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+}
